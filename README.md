@@ -1,2 +1,2 @@
-# Oracle_Datebase
+# Oracle_Database
 Conocimientos de Oracle Database  
